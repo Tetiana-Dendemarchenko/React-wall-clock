@@ -1,0 +1,23 @@
+.city-button {
+    color: black;
+    font-size: 16px;
+    font-weight: lighter;
+    font-family: Raleway;
+    background-color: red;
+    width: 200px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+    outline: #d60000;
+}
+
+.city-button:hover {
+    background-color: #d60000;
+}
+
+.city-buttons {
+    margin-left: 150px;
+}
